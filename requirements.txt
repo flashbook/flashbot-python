@@ -130,7 +130,7 @@ promise==2.1
 prompt-toolkit==1.0.15
 psutil==5.4.3
 ptyprocess==0.5.2
-py==1.5.2
+py==1.10.0
 PyAudio==0.2.7
 pycodestyle==2.3.1
 pycosat==0.6.3
